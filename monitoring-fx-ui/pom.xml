@@ -18,7 +18,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.boot.javafx.version>2.1.5</spring.boot.javafx.version>
+        <spring.boot.javafx.version>1.4.5</spring.boot.javafx.version>
     </properties>
 
     <dependencies>
