@@ -1,13 +1,13 @@
 package by.bytechs.ui.controller;
 
-import de.felixroske.jfxsupport.FXMLController;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
+import org.springframework.stereotype.Component;
 
 /**
  * @author Romanovich Andrei
  */
-@FXMLController
+@Component
 public class HelloWordController {
     @FXML
     TextField helloWordTextField;

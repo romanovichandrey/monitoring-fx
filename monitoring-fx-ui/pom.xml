@@ -18,7 +18,6 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.boot.javafx.version>1.4.5</spring.boot.javafx.version>
     </properties>
 
     <dependencies>
@@ -31,13 +30,6 @@
                     <artifactId>spring-boot-starter-logging</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>
-
-        <!-- Spring boot javafx support -->
-        <dependency>
-            <groupId>de.roskenet</groupId>
-            <artifactId>springboot-javafx-support</artifactId>
-            <version>${spring.boot.javafx.version}</version>
         </dependency>
 
         <!-- Project dependencies -->
