@@ -126,6 +126,11 @@
             <artifactId>dto-monitoring</artifactId>
             <version>1.0.41</version>
         </dependency>
+        <dependency>
+            <groupId>by.bytechs</groupId>
+            <artifactId>push-transaction-server-dto</artifactId>
+            <version>1.0.2</version>
+        </dependency>
     </dependencies>
 
     <!-- Add Spring repositories -->
